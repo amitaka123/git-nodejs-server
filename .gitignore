@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 node_modules
 >>>>>>> d58501c (fix)
@@ -28,3 +29,8 @@ public
 index.html
 public
 >>>>>>> 46cd808 (fix)
+=======
+node_modules
+index.html
+data.json
+>>>>>>> 43f1ca0 (fix)
