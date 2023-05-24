@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 node_modules,
 data.json,
 index.html,
 public
 >>>>>>> 00993cf (.gitignore fixes)
+=======
+node_modules
+>>>>>>> 2141349 (fix)
