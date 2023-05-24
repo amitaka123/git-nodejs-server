@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 node_modules
 >>>>>>> d58501c (fix)
@@ -16,3 +17,9 @@ node_modules
 >>>>>>> 2141349 (fix)
 =======
 >>>>>>> d58501c (fix)
+=======
+node_modules,
+data.json,
+index.html,
+public
+>>>>>>> 1ceae58 (fix)
