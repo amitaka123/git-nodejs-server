@@ -1,11 +1,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+node_modules
+>>>>>>> d58501c (fix)
 =======
 node_modules,
 data.json,
 index.html,
 public
 >>>>>>> 00993cf (.gitignore fixes)
+<<<<<<< HEAD
 =======
 node_modules
 >>>>>>> 2141349 (fix)
+=======
+>>>>>>> d58501c (fix)
