@@ -8,6 +8,7 @@ node_modules
 =======
 node_modules,
 data.json,
+<<<<<<< HEAD
 index.html,
 public
 >>>>>>> 00993cf (.gitignore fixes)
@@ -23,3 +24,7 @@ data.json,
 index.html,
 public
 >>>>>>> 1ceae58 (fix)
+=======
+index.html
+public
+>>>>>>> 46cd808 (fix)
