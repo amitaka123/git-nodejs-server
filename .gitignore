@@ -1,4 +1,4 @@
-node_modules;
-public;
-data.json;
-index.html;
+node_modules
+public
+data.json
+index.html
