@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config();
 const mongoose = require('mongoose');
 const express = require('express');
 const morgan = require('morgan');
@@ -9,7 +9,7 @@ const userRouter = require('./routes/user-router')
 
 // console.log(process.env.DB_PASSWORD) // remove this after you've confirmed it is working
 
-//db connection
+//database connection
 main().catch(err => console.log(err))
 
 async function main() {
@@ -26,7 +26,7 @@ async function main() {
 
 //bodyParser
 server.use(express.json());
-server.use(morgan('default')); //thirdpary and it is logger
+server.use(morgan('default')); //thirdparty and it is logger
 server.use(express.static('public'));
 // server.use('/api', productRouter);
 // server.use('/', productRouter);
